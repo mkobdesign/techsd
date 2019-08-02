@@ -1,7 +1,4 @@
-// styles go here
-nav .nav-wrapper {
-    background-color: #69b3e7;
-}
+
 body {font-family: 'Lato';}
 nav .brand-logo {color:#000}
 span.card-title {
@@ -20,9 +17,12 @@ input {
     background-color: #69b3e7;}
 .btn input {
     border-bottom: none !important;}
-nav ul a:hover {
-    background-color: #69b3e7;}
 .btn input {
     color: #fff;
     font-family: 'Lato-Bold';
     letter-spacing: 1px;}
+nav .nav-wrapper {
+    background-color: #fff; color: #1d1d1d;
+}
+nav ul a:hover {
+    background-color: #e5e5e5;}
