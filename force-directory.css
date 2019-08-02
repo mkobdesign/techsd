@@ -17,5 +17,6 @@ input {
     background-color: #00305c;
     color: #fff;}
 .btn:hover, .btn-large:hover, .btn-small:hover {
-    background-color: #69b3e7;
-}
+    background-color: #69b3e7;}
+.btn input {
+    border-bottom: none !important;}
