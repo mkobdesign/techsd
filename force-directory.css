@@ -32,4 +32,5 @@ nav ul a:hover {
 nav ul a {
     text-transform: uppercase;
     font-family: 'Lato-Bold';
+    color: #1d1d1d;
 }
