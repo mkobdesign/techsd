@@ -6,3 +6,8 @@ body {font-family: 'Lato';}
 nav .brand-logo {color:#000}
 span.card-title {
     font-family: 'Lato-Bold';}
+.card {
+    border: 2px solid #dadada;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
