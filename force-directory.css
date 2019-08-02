@@ -22,3 +22,7 @@ input {
     border-bottom: none !important;}
 nav ul a:hover {
     background-color: #69b3e7;}
+.btn input {
+    color: #fff;
+    font-family: 'Lato-Bold';
+    letter-spacing: 1px;}
