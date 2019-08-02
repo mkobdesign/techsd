@@ -12,5 +12,10 @@ span.card-title {
     box-shadow: none;
 }
 input {
-    border-bottom: 1px solid #dadada !important;
+    border-bottom: 1px solid #dadada !important;}
+.btn, .btn-large, .btn-small {
+    background-color: #00305c;
+    color: #fff;}
+.btn:hover, .btn-large:hover, .btn-small:hover {
+    background-color: #69b3e7;
 }
