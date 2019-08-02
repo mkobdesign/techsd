@@ -12,5 +12,5 @@ span.card-title {
     box-shadow: none;
 }
 input {
-    border-bottom: 1px solid #dadada;
+    border-bottom: 1px solid #dadada !important;
 }
