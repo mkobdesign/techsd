@@ -25,7 +25,7 @@ input {
     letter-spacing: 1px;}
 
 nav .nav-wrapper {
-    background-color: #fff; color: #1d1d1d; text-
+    background-color: #fff; color: #1d1d1d;
 }
 nav ul a:hover {
     background-color: #e5e5e5;}
@@ -33,4 +33,8 @@ nav ul a {
     text-transform: uppercase;
     font-family: 'Lato-Bold';
     color: #1d1d1d;
+}
+.z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-small, .btn-floating, .dropdown-content, .collapsible, .sidenav {
+    -webkit-box-shadow: none;
+    box-shadow: none;
 }
