@@ -8,8 +8,10 @@ span.card-title {
     -webkit-box-shadow: none;
     box-shadow: none;
 }
+
 input {
     border-bottom: 1px solid #dadada !important;}
+
 .btn, .btn-large, .btn-small {
     background-color: #00305c;
     color: #fff !important;}
@@ -21,8 +23,13 @@ input {
     color: #fff;
     font-family: 'Lato-Bold';
     letter-spacing: 1px;}
+
 nav .nav-wrapper {
-    background-color: #fff; color: #1d1d1d;
+    background-color: #fff; color: #1d1d1d; text-
 }
 nav ul a:hover {
     background-color: #e5e5e5;}
+nav ul a {
+    text-transform: uppercase;
+    font-family: 'Lato-Bold';
+}
