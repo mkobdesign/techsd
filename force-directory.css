@@ -4,3 +4,5 @@ nav .nav-wrapper {
 }
 body {font-family: 'Lato';}
 nav .brand-logo {color:#000}
+span.card-title {
+    font-family: 'Lato-Bold';}
