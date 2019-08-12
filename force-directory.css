@@ -42,3 +42,13 @@ nav ul a {
 .btn {
     margin-left: .75rem;
 }
+h5.card-title {
+    font-size: 30px !important;
+    font-weight: bold !important;
+}
+.card-title {
+    padding: 0 .75rem;
+}
+.individualPalette h6 {
+    padding: 0 .75rem;
+}
