@@ -67,3 +67,6 @@ span.badge.new {background-color:#69b3e7;}
     padding: 0px !important;
 }
 .bPageBlock > div.pbBody > div h5 {margin-top: 0px;}
+button, html [type="button"], [type="reset"], [type="submit"] {
+    font-weight: bold; font-family: 'Lato';
+}
