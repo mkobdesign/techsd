@@ -73,7 +73,7 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 .row .col.s12.m12.l12 {
     padding: 0px;
 }
-h6 {color: #9e9e9e;}
+h6 {color: #9e9e9e !important;}
 .individualPalette .row:last-of-type {
     margin-bottom: 0px;
 }
