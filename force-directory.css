@@ -56,3 +56,6 @@ h5.card-title {
 }
 
 #j_id0:main-block:j_id5:pbId > div.pbBody > div hr {display:none;}
+tr {
+    border-bottom: none;
+}
