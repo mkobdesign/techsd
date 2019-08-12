@@ -62,3 +62,7 @@ tr {
 span.badge.new {background-color:#69b3e7;}
 .z-depth-1-half, .btn:hover, .btn-large:hover, .btn-small:hover, .btn-floating:hover {-webkit-box-shadow: none !important;
     box-shadow:none !important; }
+.pbBody .container {
+    border: none !important;
+    padding: 0px !important;
+}
