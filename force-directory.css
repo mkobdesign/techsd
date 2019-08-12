@@ -70,3 +70,6 @@ span.badge.new {background-color:#69b3e7;}
 button, html [type="button"], [type="reset"], [type="submit"] {
     font-weight: bold; font-family: 'Lato';
 }
+.row .col.s12.m12.l12 {
+    padding: 0px;
+}
