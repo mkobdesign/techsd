@@ -52,7 +52,7 @@ h5.card-title {
 }
 .bPageBlock > div.pbBody > div {
     border: 2px solid rgb(218, 218, 218);
-    padding: 10px;
+    padding: 20px;
 }
 
 .bPageBlock > div.pbBody > div hr {display:none;}
