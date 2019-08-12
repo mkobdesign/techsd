@@ -80,7 +80,7 @@ h6 {color: #9e9e9e !important;}
 .bPageBlock > div.pbBody > div:last-of-type {
     border: none;
 }
-.card .card-content {padding: 20px 11px;}
+.individualPalette .card .card-content {padding: 20px 11px;}
 .card {
     margin: 0px;
 }
