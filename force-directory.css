@@ -74,3 +74,6 @@ button, html [type="button"], [type="reset"], [type="submit"] {
     padding: 0px;
 }
 h6 {color: #9e9e9e;}
+.individualPalette .row:last-of-type {
+    margin-bottom: 0px;
+}
